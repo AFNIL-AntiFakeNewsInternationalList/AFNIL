@@ -21,6 +21,6 @@ fortliberty.org/hoax-sites.html
 
 hoaxoffame.tumblr.com/post/98470722477/fake-news-websites-you-shouldnt-trust
 
-www.issoenoticia.com.br/artigo/projeto-da-usp-lista-10-maiores-sites-de-falsas-noticias-no-brasil
+issoenoticia.com.br/artigo/projeto-da-usp-lista-10-maiores-sites-de-falsas-noticias-no-brasil
 
 en.wikipedia.org/wiki/Wikipedia:Zimdars%27_fake_news_list

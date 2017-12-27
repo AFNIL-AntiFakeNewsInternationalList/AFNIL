@@ -3,7 +3,7 @@ Anti Fake News List
 
 Afnil's intention is to merge third-party lists of known fakenews sites and make them usable for programs that can block them
 
-[Install AFNIL in AdBlockPlus or uBlockOrigin](abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2Freek%2Fanti-adblock-killer%2Fmaster%2Fanti-adblock-killer-filters.txt&title=AakList%20(Anti-Adblock%20Killer))
+[Install AFNIL in AdBlockPlus or uBlockOrigin](https://raw.githubusercontent.com/AFNIL-AntiFakeNewsList/AFNIL/master/AFNIL-ABP-uBO.txt)
 
 Sources:
 

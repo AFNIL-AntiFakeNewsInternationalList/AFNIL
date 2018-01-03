@@ -3,7 +3,7 @@ Anti Fake News International List
 
 Afnil's intention is to merge third-party lists of known fakenews sites and make them usable for programs that can block them
 
-[Install AFNIL in AdBlockPlus or uBlockOrigin](https://raw.githubusercontent.com/AFNIL-AntiFakeNewsList/AFNIL/master/AFNIL-ABP-uBO.txt)
+[Install AFNIL in AdBlockPlus or uBlockOrigin](https://afnil-antifakenewsinternationallist.github.io)
 
 Sources:
 

@@ -2446,10 +2446,6 @@ google.*##:xpath(//div[@class='g' and descendant::cite[contains(text(), 'indecis
 index-blog.net#@#a[href^="index-blog.net"]
 google.*##:xpath(//div[@class='g' and descendant::cite[contains(text(), 'index-blog.net')]])
 ||index-blog.net^$third-party,popup
-##a[href*="index.html"]
-index.html#@#a[href^="index.html"]
-google.*##:xpath(//div[@class='g' and descendant::cite[contains(text(), 'index.html')]])
-||index.html^$third-party,popup
 ##a[href*="indiaarising.com"]
 indiaarising.com#@#a[href^="indiaarising.com"]
 google.*##:xpath(//div[@class='g' and descendant::cite[contains(text(), 'indiaarising.com')]])
